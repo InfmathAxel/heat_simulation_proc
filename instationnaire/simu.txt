@@ -1,0 +1,13 @@
+Lx 0.040 Ly 0.004 Lz 0.05
+M 5000
+Phi 12500
+hc 200
+rho 2700
+k 164
+Cp 940
+te 20
+TFinal 300
+N 600
+Mx 50 My 10 Mz 30
+n 5
+temps 0 15 100 300 599
